@@ -1,2 +1,2 @@
 # crescerecourse
- Exercises about HTML5 and CSS3
+ Exercises about HTML5, CSS3 and JQuery
